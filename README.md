@@ -17,9 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Srinath-R/Github">
-    <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
   <h3 align="center">README</h3>
 
@@ -173,4 +171,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/srinath-r
-[product-screenshot]: https://raw.githubusercontent.com/Srinath-R/Github/master/screenshot.png
+[product-screenshot]: https://github.com/Srinath-R/Github/blob/master/screenshot.png
