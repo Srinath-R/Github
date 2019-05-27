@@ -22,7 +22,7 @@
   <h3 align="center">README</h3>
 
   <p align="center">
-    An awesome README template made with :heart: to jumpstart your projects!
+    A cool README template made with :heart: to jumpstart your projects!
     <br />
     <a href="https://github.com/Srinath-R/Github"><strong>Explore the docs »</strong></a>
     <br />
